@@ -1,0 +1,2 @@
+# llm_use_code
+PythonコードでGPTなどのAPIを叩くためのサンプルコード
