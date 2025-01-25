@@ -1,4 +1,4 @@
-# OpenAIのAPIを利用するための基本コード
+# OpenAIのAPIをLangChain経由で利用するための基本コード
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import SystemMessage, HumanMessage
 
